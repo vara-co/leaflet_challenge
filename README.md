@@ -1,6 +1,6 @@
 <h1 align="center">DU - DA Module 15 "leaflet-challenge"<br/>
 An Interactive Earthquake Map</h1>
-<h2 align="center">Using HTML(PyCharm), CSS, JavaScript(Visual Studio Code), and the Leaflet library<br/>
+<h2 align="center">Using HTML(PyCharm), CSS, JavaScript(Visual Studio Code), and the Leaflet and D3 libraries<br/>
 <br/>
 by Laura Vara</h2><br/>
 
